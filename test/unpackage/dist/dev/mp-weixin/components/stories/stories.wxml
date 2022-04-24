@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['choose',['$event']]]]]}}" class="stories" bindtap="__e"><view class="text"><text class="tit">{{story.title}}</text><text class="auth">{{story.hint}}</text></view><image src="{{story.images[0]}}" mode="widthFix"></image></view>

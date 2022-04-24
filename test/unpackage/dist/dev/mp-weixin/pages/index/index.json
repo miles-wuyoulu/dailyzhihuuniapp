@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "知乎日报",
+  "usingComponents": {
+    "stories": "/components/stories/stories"
+  }
+}

@@ -1,0 +1,9 @@
+.detail {
+  width: 100%;
+  height: 1150rpx;
+}
+.detail image {
+  width: 100%;
+  height: 100%;
+}
+
